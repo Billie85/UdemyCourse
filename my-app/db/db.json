@@ -1,0 +1,80 @@
+{
+    "todo":[
+        {
+            "id": "1",
+            "title": "運動",
+            "editing": false,
+            "completed": true
+        },
+        {
+            "id": "2",
+            "title": "歯磨き",
+            "editing": false,
+            "completed": false
+        },
+        {
+            "id": "3",
+            "title": "掃除",
+            "editing": false,
+            "completed": false
+        },
+        {
+            "id": "4",
+            "title": "お風呂",
+            "editing": false,
+            "completed": false
+        }
+    ],
+    "Love":[
+        {
+            "id": "1",
+            "title": "ぶーちゃん",
+            "editing": false,
+            "completed": true
+        },
+        {
+            "id": "2",
+            "title": "ぶーちゃん２号",
+            "editing": false,
+            "completed": false
+        },
+        {
+            "id": "3",
+            "title": "あゆみちゃん",
+            "editing": false,
+            "completed": false
+        },
+        {
+            "id": "4",
+            "title": "せなちゃん",
+            "editing": false,
+            "completed": false
+        }
+    ],
+    "Happy":[
+        {
+            "id": "1",
+            "title": "ぶーちゃん",
+            "editing": false,
+            "completed": true
+        },
+        {
+            "id": "2",
+            "title": "ぶーちゃん２号",
+            "editing": false,
+            "completed": false
+        },
+        {
+            "id": "3",
+            "title": "あゆみちゃん",
+            "editing": false,
+            "completed": false
+        },
+        {
+            "id": "4",
+            "title": "せなちゃん",
+            "editing": false,
+            "completed": false
+        }
+    ]
+}
